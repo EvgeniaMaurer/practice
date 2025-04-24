@@ -1,2 +1,1 @@
-# practice
-This repository is for practicing the GitHub Flow
+Начинающий аналитик, который стремится найти отличную работу.
